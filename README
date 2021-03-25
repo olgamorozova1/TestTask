@@ -1,0 +1,4 @@
+To run tests clone repository
+$ git clone https://github.com/olgamorozova1/TestTask.git
+
+Run tests from the com.coherentsolutions.task.test.MainTest
